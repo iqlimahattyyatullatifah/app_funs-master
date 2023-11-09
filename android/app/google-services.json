@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48580925350",
+    "project_id": "funs-app",
+    "storage_bucket": "funs-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48580925350:android:eedbd9fec11e5093bd2167",
+        "android_client_info": {
+          "package_name": "com.funs.funs_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48580925350-lbh45hpmtnq7da7qeiapjmnfe36ilvgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3i0dn8ThvJPEnUmEjToibAN4wenOgSAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48580925350-lbh45hpmtnq7da7qeiapjmnfe36ilvgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
